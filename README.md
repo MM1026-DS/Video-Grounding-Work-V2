@@ -150,8 +150,7 @@ This repository is intended to document the research, methodology, experimental 
 
 Data Scientist | Artificial Intelligence | Machine Learning | Computer Vision | NLP
 
-* LinkedIn: *(Add your LinkedIn profile)*
-* Email: *(Add your email)*
+
 
 ---
 
